@@ -118,8 +118,8 @@
 </p>
 
 <p align="center">
-  <b style="color: #FF69B4;">Chomp! Chomp! Pink Pac-Man lagi makan kodenya Nabila! 👾💖</b><br><br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4Yzh0bW13ZDRvczl5MndpM3hhZm9idmsyb2NpZmtndnF4YmRxZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/l4XN9qI64QWzVz1m0/giphy.gif" width="60%" style="background-color: #FFF0F5; padding: 15px; border-radius: 20px; border: 3px dashed #FFB6C1;" />
+  <b style="color: #FF69B4;">Chomp! Chomp! Pac-Man lagi keliling cari kode! 👾💖</b><br><br>
+  <img src="https://media.tenor.com/1E6H2G88lDkAAAAM/pacman-pac-man.gif" width="400" style="background-color: #FFF0F5; padding: 15px; border-radius: 20px; border: 3px dashed #FFB6C1;" />
 </p>
 
 <div align="center">
@@ -151,5 +151,5 @@
     Thanks for visiting my profile! Have a magical day! ✨
   </p>
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FzZmxnbW95azN6Z3g2bDR0Znd6cnp5MTRmY3VjcW95dHhhYTZyeCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ICOgUNjpvO0PC/giphy.gif" width="120px"/>
+  <img src="https://media.tenor.com/bBcbUoNq_q8AAAAi/pixel-heart.gif" width="100px"/>
 </div>
