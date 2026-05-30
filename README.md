@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3c6&height=250&section=header&text=✨%20Nabila's%20Digital%20Diary%20💌&fontSize=50&animation=fadeIn&fontAlign=80&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3c6&height=220&section=header&text=✨%20Nabila's%20Digital%20Diary%20💌&fontSize=38&animation=fadeIn&fontAlign=50&fontColor=ffffff" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&pause=1000&color=F76FA1&center=true&vCenter=true&width=600&lines=🌸+Mobile+Cutie+%7C+Flutter+Enthusiast;🎀+Backend+Magic+%7C+Laravel+Artisan;☁️+Turning+Coffee+into+Aesthetic+Code" alt="Typing SVG" /></a>
@@ -39,7 +39,7 @@
 ### 🏆 ˚₊‧ My GitHub Trophies ‧₊˚ 🏆
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nabilasalsabila&theme=pastel&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nabilasalsabilan948-spec&theme=pastel&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
   </a>
 </p>
 
@@ -71,16 +71,16 @@
 <table width="100%" style="border: none;">
   <tr style="border: none;">
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nabilasalsabila&show_icons=true&theme=rose&hide_border=true&bg_color=FFF0F5&title_color=FF1493&icon_color=FF69B4&text_color=555555" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=nabilasalsabilan948-spec&show_icons=true&theme=rose&hide_border=true&bg_color=FFF0F5&title_color=FF1493&icon_color=FF69B4&text_color=555555" width="100%" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasalsabila&layout=compact&theme=rose&hide_border=true&bg_color=FFF0F5&title_color=FF1493&text_color=555555" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasalsabilan948-spec&layout=compact&theme=rose&hide_border=true&bg_color=FFF0F5&title_color=FF1493&text_color=555555" width="100%" />
     </td>
   </tr>
   <tr style="border: none;">
     <td colspan="2" align="center" style="border: none;">
       <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilasalsabila&theme=rose&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF1493" width="70%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilasalsabilan948-spec&theme=rose&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF1493" width="70%" />
     </td>
   </tr>
 </table>
@@ -92,18 +92,18 @@
 <table width="100%" style="border: none;">
   <tr style="border: none;">
     <td width="33%" style="border: none;">
-      <a href="https://github.com/nabilasalsabila/project-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabila&repo=nama-repo-andalannmu&theme=rose_pine_dawn&show_owner=true" width="100%"/>
+      <a href="https://github.com/nabilasalsabilan948-spec/project-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabilan948-spec&repo=nama-repo-andalannmu&theme=rose_pine_dawn&show_owner=true" width="100%"/>
       </a>
     </td>
     <td width="33%" style="border: none;">
-      <a href="https://github.com/nabilasalsabila/project-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabila&repo=nama-repo-keduamu&theme=rose_pine_dawn&show_owner=true" width="100%"/>
+      <a href="https://github.com/nabilasalsabilan948-spec/project-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabilan948-spec&repo=nama-repo-keduamu&theme=rose_pine_dawn&show_owner=true" width="100%"/>
       </a>
     </td>
     <td width="33%" style="border: none;">
-      <a href="https://github.com/nabilasalsabila/project-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabila&repo=nama-repo-ketigamu&theme=rose_pine_dawn&show_owner=true" width="100%"/>
+      <a href="https://github.com/nabilasalsabilan948-spec/project-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabilan948-spec&repo=nama-repo-ketigamu&theme=rose_pine_dawn&show_owner=true" width="100%"/>
       </a>
     </td>
   </tr>
@@ -114,7 +114,7 @@
 ### 🌸 ˚₊‧ Contribution Activity ‧₊˚ 🌸
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilasalsabila&theme=metro&area=true&hide_border=true&color=F76FA1&line=FFB6C1&point=FF1493&bg_color=FFF0F5" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilasalsabilan948-spec&theme=metro&area=true&hide_border=true&color=F76FA1&line=FFB6C1&point=FF1493&bg_color=FFF0F5" width="100%" />
 </p>
 
 <p align="center">
@@ -133,9 +133,9 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/nabilasalsabila"><img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nabilasalsabila"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/nabilasalsabila"><img src="https://img.shields.io/badge/Telegram-DB7093?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://instagram.com/nabilasalsabilan948-spec"><img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nabilasalsabilan948-spec"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/nabilasalsabilan948-spec"><img src="https://img.shields.io/badge/Telegram-DB7093?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:nabila@example.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -144,7 +144,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine_dawn" width="70%" />
   <br><br>
   
-  <p><img src="https://visitor-badge.laobi.icu/badge?page_id=nabilasalsabila.nabilasalsabila&left_color=FFB6C1&right_color=FF1493" /></p>
+  <p><img src="https://visitor-badge.laobi.icu/badge?page_id=nabilasalsabilan948-spec.nabilasalsabilan948-spec&left_color=FFB6C1&right_color=FF1493" /></p>
   
   <br>
   <p style="color: #FF69B4; font-size: 0.9em; font-family: cursive;">
