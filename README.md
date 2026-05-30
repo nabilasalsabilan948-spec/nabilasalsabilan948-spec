@@ -118,8 +118,8 @@
 </p>
 
 <p align="center">
-  <b style="color: #FF69B4;">Pixel Art Divider 💖</b><br><br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/bubble.gif" width="60%" />
+  <b style="color: #FF69B4;">Chomp! Chomp! Pink Pac-Man lagi makan kodenya Nabila! 👾💖</b><br><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4Yzh0bW13ZDRvczl5MndpM3hhZm9idmsyb2NpZmtndnF4YmRxZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/l4XN9qI64QWzVz1m0/giphy.gif" width="60%" style="background-color: #FFF0F5; padding: 15px; border-radius: 20px; border: 3px dashed #FFB6C1;" />
 </p>
 
 <div align="center">
