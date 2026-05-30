@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3c6&height=220&section=header&text=✨%20Nabila's%20Digital%20Diary%20💌&fontSize=38&animation=fadeIn&fontAlign=50&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3c6&height=220&section=header&text=✨%20Nabila's%20Digital%20Diary%20💌&fontSize=35&animation=fadeIn&fontAlign=50&fontColor=ffffff" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&pause=1000&color=F76FA1&center=true&vCenter=true&width=600&lines=🌸+Mobile+Cutie+%7C+Flutter+Enthusiast;🎀+Backend+Magic+%7C+Laravel+Artisan;☁️+Turning+Coffee+into+Aesthetic+Code" alt="Typing SVG" /></a>
@@ -92,18 +92,18 @@
 <table width="100%" style="border: none;">
   <tr style="border: none;">
     <td width="33%" style="border: none;">
-      <a href="https://github.com/nabilasalsabilan948-spec/project-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabilan948-spec&repo=nama-repo-andalannmu&theme=rose_pine_dawn&show_owner=true" width="100%"/>
+      <a href="https://github.com/nabilasalsabilan948-spec">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabilan948-spec&repo=project1&theme=rose_pine_dawn&show_owner=true" width="100%"/>
       </a>
     </td>
     <td width="33%" style="border: none;">
-      <a href="https://github.com/nabilasalsabilan948-spec/project-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabilan948-spec&repo=nama-repo-keduamu&theme=rose_pine_dawn&show_owner=true" width="100%"/>
+      <a href="https://github.com/nabilasalsabilan948-spec">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabilan948-spec&repo=project2&theme=rose_pine_dawn&show_owner=true" width="100%"/>
       </a>
     </td>
     <td width="33%" style="border: none;">
-      <a href="https://github.com/nabilasalsabilan948-spec/project-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabilan948-spec&repo=nama-repo-ketigamu&theme=rose_pine_dawn&show_owner=true" width="100%"/>
+      <a href="https://github.com/nabilasalsabilan948-spec">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabilasalsabilan948-spec&repo=project3&theme=rose_pine_dawn&show_owner=true" width="100%"/>
       </a>
     </td>
   </tr>
@@ -118,8 +118,8 @@
 </p>
 
 <p align="center">
-  <b style="color: #FF69B4;">Lihat si ular makan kontribusiku! 🐍💖</b><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/platane/snk@output/github-contribution-grid-snake.svg" alt="snake" width="80%" style="background-color: #ffffff; padding: 10px; border-radius: 15px; border: 2px dashed #FFB6C1;" />
+  <b style="color: #FF69B4;">Pixel Art Divider 💖</b><br><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/bubble.gif" width="60%" />
 </p>
 
 <div align="center">
@@ -133,9 +133,9 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/nabilasalsabilan948-spec"><img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nabilasalsabilan948-spec"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/nabilasalsabilan948-spec"><img src="https://img.shields.io/badge/Telegram-DB7093?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-DB7093?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:nabila@example.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -151,5 +151,5 @@
     Thanks for visiting my profile! Have a magical day! ✨
   </p>
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FjMzI1YzEyN2ZjYzI2MzMxZDMyOWZiYzNjM2EwZmM2ZjcwMzZiZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ICOgUNjpvO0PC/giphy.gif" width="120px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FzZmxnbW95azN6Z3g2bDR0Znd6cnp5MTRmY3VjcW95dHhhYTZyeCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ICOgUNjpvO0PC/giphy.gif" width="120px"/>
 </div>
